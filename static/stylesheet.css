@@ -1,0 +1,30 @@
+
+img {
+	height: 100%;
+	width:  100%;
+}
+
+table {
+	padding: 10px 10px 10px 10px;
+	border: 1px solid grey;
+	margin-right: 10px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+
+
+
+td img {
+	box-shadow: none;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid white;
+	opacity: 0.7;
+	filter: alpha(opacity=70);
+}
+
+th {
+	font-family: Verdana;
+	font-size: 1em;
+	font-weight: normal;
+	color: #3c4543
+}
