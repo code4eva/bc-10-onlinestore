@@ -1,5 +1,5 @@
-pip install flask
-pip install flask-script
-pip install flask-bootstrap
-pip install flask-moment
-pip install flask-wtf
+flask
+flask-script
+flask-bootstrap
+flask-moment
+flask-wtf
